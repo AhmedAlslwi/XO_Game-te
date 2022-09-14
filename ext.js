@@ -30,7 +30,7 @@ function validate() {
     if ((username == "Ahmed" && password == "3000") || (username == "Alselwi" && password == "70900")) {
 
         alert("login succesfully");
-        window.location.assign('/xo.html')
+        window.location.assign('xo.html')
     }
     else {
         alert(
